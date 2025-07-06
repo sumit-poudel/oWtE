@@ -1,0 +1,14 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    background: transparent;
+}
+
+div{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./ok.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
