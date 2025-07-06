@@ -11,6 +11,15 @@ module.exports = {
       name: '@electron-forge/maker-zip',
       config: {},
     },
+    {
+      name: '@electron-forge/maker-appimage',
+      config: {
+        options: {
+          // Optional: specify an icon path or AppImage-specific options
+          // icon: 'assets/icon.png'
+        }
+      }
+    }
   ],
   plugins: [
     {
