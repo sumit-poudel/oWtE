@@ -6,3 +6,7 @@
 2. chmod +x ok-1.0.0.AppImage
 3. ./ok-1.0.0.AppImage
 
+# Demo: -
+
+https://github.com/user-attachments/assets/82259d65-276e-4af8-9494-dc016d13617b
+
