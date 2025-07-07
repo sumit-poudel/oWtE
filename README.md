@@ -2,9 +2,16 @@
 ### BUT <br> here you go dancing anime girl 
 
 ### steps:
-1. wget https://github.com/sumit-poudel/oWtE/releases/download/first/owte-1.0.0.AppImage OR curl -L -o ok-1.0.0.AppImage https://github.com/sumit-poudel/oWtE/releases/download/first/owte-1.0.0.AppImage
-2. chmod +x ok-1.0.0.AppImage
-3. ./ok-1.0.0.AppImage
+```
+wget https://github.com/sumit-poudel/oWtE/releases/download/v1.0.1/owte-1.0.1.AppImage
+chmod +x owte-1.0.1.AppImage
+./owte-1.0.1.AppImage
+```
+or using aur wrapper
+```
+paru -S owte-appimage
+yay -S owte-appimage
+```
 
 # Demo: -
 
